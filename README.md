@@ -1,2 +1,2 @@
 # test_git
-new repository for github (notebook)
+new repository for github tutorial (notebook)
